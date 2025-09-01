@@ -9,7 +9,7 @@ This repository showcases multiple interactive dashboards built with Microsoft P
 
 This collection includes several end-to-end dashboard projects, each tailored to a different business context:
 
-1. **CI Dashboard**: Competitive Intelligence dashboard to track market competitors, analyzing KPIs such as turnover, sales growth (USG/UVG), profitability, and regional performance.  
+1. **CI Dashboard**: Competitive Intelligence dashboard to track market competitors, analyzing KPIs such as turnover, sales growth, profitability, and regional performance.  
 2. **Content Moderation Dashboard**: Monitors moderation KPIs such as quality score, flagged content, reviewer performance, and workflow efficiency.  
 3. **Financial Dashboard**: Tracks revenue, profit, operating margins, and YoY trends to provide a clear financial performance overview.  
 4. **Transaction Dashboard**: Analyzes synthetic transaction data across orders, payments, promotions, and customer segments, with RFM (Recency, Frequency, Monetary) insights.  
