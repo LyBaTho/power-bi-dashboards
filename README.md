@@ -28,7 +28,7 @@ This collection includes several end-to-end dashboard projects, each tailored to
 Build end-to-end dashboards in Power BI to turn raw data into actionable insights, supporting strategic and operational decision-making.
 
 #### Specifications
-- **Data Sources**: SQL Server, Google BigQuery, Python-generated datasets, and web-scraped data.  
+- **Data Sources**: Python-generated datasets.  
 - **Design**: Gradient-themed layouts, interactive slicers, and dynamic DAX measures for flexible analysis.  
 - **Scope**: Covers multiple domains — competitor intelligence, finance, content moderation, and transactions.  
 - **Documentation**: Each dashboard is documented with structure, key metrics, and usage notes.  
@@ -39,22 +39,18 @@ Build end-to-end dashboards in Power BI to turn raw data into actionable insight
 ```
 scraping-retailers-website-project/
 │
-├── datasets/                                                    
-│   ├── carrefour_raw_data.png        
-│   ├── carrefour_aggregated_data.png                 
-│   ├── target_raw_data.png                
-│   ├── target_aggregated_data.png           
-│   ├── tesco_raw_data.png
-│   ├── tesco_aggregated_data.png        
+├── ci_dashboard/
+│   ├── captures files
+│   ├── data_model.png 
+├── content_moderation_dashboard/
+│   ├── captures files
+│   ├── data_model.png 
+├── financial_dashboard/
+│   ├── captures files
+│   ├── data_model.png 
+├── transaction_dashboard/                                                        
+│   ├── captures files
+│   ├── data_model.png             
 │
-├── scripts/                           
-│   ├── data_folder_setup/             
-│   ├── setup_libraries/                 
-│   ├── target/                           
-│   ├── tesco/          
-│   ├── carrefour/
-│   ├── aggregate_data/
-│   ├── run_all/
-│
-├── README.md                           # Project overview and instructions
+├── README.md
 ```
