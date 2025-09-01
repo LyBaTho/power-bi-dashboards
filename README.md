@@ -40,16 +40,16 @@ Build end-to-end dashboards in Power BI to turn raw data into actionable insight
 scraping-retailers-website-project/
 │
 ├── ci_dashboard/
-│   ├── captures files
+│   ├── captures
 │   ├── data_model.png 
 ├── content_moderation_dashboard/
-│   ├── captures files
+│   ├── captures
 │   ├── data_model.png 
 ├── financial_dashboard/
-│   ├── captures files
+│   ├── captures
 │   ├── data_model.png 
 ├── transaction_dashboard/                                                        
-│   ├── captures files
+│   ├── captures
 │   ├── data_model.png             
 │
 ├── README.md
